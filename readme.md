@@ -1,4 +1,4 @@
-# Patika.dev-HTML-Odev-2 Projem
+# Patika.dev-HTML-Odev-3 Projem
 
 ##HAKKIMDA
 Merhaba ben Nihat Furkan ADALAR, aktif olarak Özel Eğitim Öğretmenliği yapmaktayım. Yazılım tarafında hobi amaçlı çalışmalar yapmaktayım.
